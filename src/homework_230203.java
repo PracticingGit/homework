@@ -77,7 +77,7 @@ public class homework_230203 {
         System.out.println("해당 버스의  버스번호는" + bus2.number);
         bus1.addPassenger(2);
         bus1.getPassenger();
-        bus1.getCharge();/* 여기까지 ㅇㅋ */
+        bus1.getCharge();
         bus1.consumeFuel(50);
         bus1.changeDriving();
         bus1.addFuel(10);
